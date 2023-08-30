@@ -23,7 +23,7 @@ Right now only % scaling is possible.
 
 **Usage**
 
-`python3 bulk_image_resizer.py /path/to/folder 90% -t png
+`python3 bulk_image_resizer.py /path/to/folder 90% -t png`
 
 -t = png|jpg
 
@@ -36,7 +36,7 @@ Right now only % scaling is possible.
 
 **Usage**
 
-`python3 bulk_image_resizer.py -p /path/to/folder -q 70%
+`python3 bulk_image_resizer.py -p /path/to/folder -q 70%`
 
 -q = 1 - 100%
 
