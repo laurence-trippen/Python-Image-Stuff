@@ -2,6 +2,8 @@
 
 ### Bulk HEIC Converter
 
+Converts HEIC/HEIF files to PNG or JPGs.
+
 **Depedencies**
 
 * pillow_heif
@@ -14,6 +16,8 @@
 
 
 ### Bulk Image Resizer
+
+Resizes PNG and JPGs.
 
 Right now only % scaling is possible.
 
@@ -29,6 +33,8 @@ Right now only % scaling is possible.
 
 
 ### Bulk JPG Compressor
+
+Compresses JPGs.
 
 **Depedencies**
 
